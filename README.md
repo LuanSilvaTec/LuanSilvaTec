@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Luan Silva 👋
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="octocat">
+</p>
 
 <!--
 **LuanSilvaTec/LuanSilvaTec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

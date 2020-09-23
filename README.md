@@ -20,6 +20,9 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 - Laboratório de Computação Científica - LCC Unifesspa.
 - PRGNET.
 
+### Researches
+- TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](10.21528/CBIC2019-24)
+
 ## GitHub stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=LuanSilvaTec&show_icons=true" alt="michel github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSilvaTec&layout=compact" alt="luan top languages" height=200/> |

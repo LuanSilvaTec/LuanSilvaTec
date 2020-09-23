@@ -21,7 +21,7 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 - PRGNET.
 
 ### Researches
-- TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](10.21528/CBIC2019-24)
+- TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](http://abricom.org.br/eventos/cbic2019/cbic2019-24/)
 
 ## GitHub stats
 

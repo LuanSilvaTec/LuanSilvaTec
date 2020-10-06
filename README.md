@@ -22,6 +22,7 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 
 ### Researches
 - TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](http://abricom.org.br/eventos/cbic2019/cbic2019-24/)
+- Link da apresentação: [https://www.youtube.com/watch?v=j4U8htV92N4&feature=youtu.be](https://www.youtube.com/watch?v=j4U8htV92N4&feature=youtu.be)
 
 ### Lattes
 Link: http://lattes.cnpq.br/7893890557809352

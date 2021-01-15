@@ -27,6 +27,10 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 - Link da minha participação na live do perfil oficial do Instagram da UNIFESSPA: [https://youtu.be/xxW00iAz7Zs](https://youtu.be/xxW00iAz7Zs)
 ### Lattes
 Link: http://lattes.cnpq.br/7893890557809352
+### Twitch
+Link: https://www.twitch.tv/luansilva_7
+### Canal do YouTube
+Link: https://www.youtube.com/channel/UCb6qlzV2Odp_lspDwLTitVQ
 ## GitHub stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=LuanSilvaTec&show_icons=true" alt="michel github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSilvaTec&layout=compact" alt="luan top languages" height=200/> |

@@ -25,6 +25,8 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 - Link da apresentação: [https://www.youtube.com/watch?v=j4U8htV92N4&feature=youtu.be](https://www.youtube.com/watch?v=j4U8htV92N4&feature=youtu.be)
 - Link da reportagem sobre a utilização de Deep Learning no diagnóstico da COVID-19:[https://www.youtube.com/watch?v=k861nBTtPGQ](https://www.youtube.com/watch?v=k861nBTtPGQ)
 - Link da minha participação na live do perfil oficial do Instagram da UNIFESSPA: [https://youtu.be/xxW00iAz7Zs](https://youtu.be/xxW00iAz7Zs)
+### Linktree
+Link: https://linktr.ee/luansilva_7
 ### Lattes
 Link: http://lattes.cnpq.br/7893890557809352
 ### Twitch

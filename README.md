@@ -11,7 +11,7 @@
 
 ## About me
 
-Graduating in Bachelor of Information Systems at the Federal University of the South and Southeast of Pará - UNIFESSPA. Associated with the Brazilian Computer Society - SBC. Enthusiast and Researcher in the Deep Learning area, working with supervised algorithms applied in the recognition of X-ray images. He has already worked as a fellow at the Academic Registration and Control Center - CRCA of the Federal University of the South and Southeast of Pará. He was a Scientific Initiation fellow. at the Scientific Computing Laboratory - LCC, working with Data Mining and Artificial Intelligence. Has some experience with programming, in the languages C, SQL, Java, Python, Javascript (React and Node.JS) and R. Has experience with handling Open Public Databases (Enem, DATASUS, CNES, SAEB, School Census and among others). He has experience in teaching and extension projects, being a monitor of the subjects of Programming 1 and Programming 2 for the classes of Information Systems and Computer Engineering, as well as an instructor in the Digital Inclusion Program - PID UNIFESSPA and currently in the Logic Teaching Project Programming in Marabá Public Schools and Infocenters. Android developer.
+Bachelor of Information Systems at the Federal University of the South and Southeast of Pará - UNIFESSPA. Associated with the Brazilian Computer Society - SBC. Enthusiast and Researcher in the Deep Learning area, working with supervised algorithms applied in the recognition of X-ray images. He has already worked as a fellow at the Academic Registration and Control Center - CRCA of the Federal University of the South and Southeast of Pará. He was a Scientific Initiation fellow. at the Scientific Computing Laboratory - LCC, working with Data Mining and Artificial Intelligence. Has some experience with programming, in the languages C, SQL, Java, Python, Javascript (React and Node.JS) and R. Has experience with handling Open Public Databases (Enem, DATASUS, CNES, SAEB, School Census and among others). He has experience in teaching and extension projects, being a monitor of the subjects of Programming 1 and Programming 2 for the classes of Information Systems and Computer Engineering, as well as an instructor in the Digital Inclusion Program - PID UNIFESSPA and currently in the Logic Teaching Project Programming in Marabá Public Schools and Infocenters. Android developer.
 
 - 📫 How to reach me: **luansilvatec@gmail.com**
 
@@ -20,6 +20,7 @@ Graduating in Bachelor of Information Systems at the Federal University of the S
 - Laboratório de Computação Científica - LCC Unifesspa.
 - PRGNET.
 - FIBRALINK
+- Elife
 
 ### Researches
 - TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](http://abricom.org.br/eventos/cbic2019/cbic2019-24/)

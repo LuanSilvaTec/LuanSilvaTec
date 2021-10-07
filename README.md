@@ -21,6 +21,8 @@ Bachelor of Information Systems at the Federal University of the South and South
 - PRGNET.
 - FIBRALINK
 - Elife
+- Centro de Excelência em Inteligência Artificial
+- Hospital Israelita Albert Einstein
 
 ### Researches
 - TCC: [Redes Neurais Convolucionais Aplicadas na Detecção de Pneumonia Através de Imagens de Raio-X](http://abricom.org.br/eventos/cbic2019/cbic2019-24/)
